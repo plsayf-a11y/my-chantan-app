@@ -6,7 +6,7 @@ Built with **[Chantan](https://chantan.studio)** — describe what you want, the
 
 - **Edit this project:** [open it in Chantan](https://chantan.studio/dashboard/project/ea320540-de66-4ec0-acf7-fef6dc4b2195)
 - **Live site:** not published yet — open the project in Chantan and press **Publish**
-- **Repository:** `my-chantan-app` (private)
+- **Repository:** `plsayf-a11y/my-chantan-app` (private)
 
 ## How do I change this app?
 
@@ -22,7 +22,7 @@ You need [Node.js](https://nodejs.org) installed. Then:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/<your-username>/my-chantan-app.git
+git clone https://github.com/plsayf-a11y/my-chantan-app.git
 
 # 2. Go into the folder
 cd my-chantan-app
